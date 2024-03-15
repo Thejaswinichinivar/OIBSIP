@@ -6,15 +6,15 @@ The CSS file defines the styling of the calculator, including the layout, colour
 The JavaScript file defines the functionality of the calculator, including handling user input, performing calculations, and updating the display.
 The calculator supports the following features:
 
->Entering numbers and performing arithmetic operations
->Displaying the input and result on the calculator display
->Storing the previous number, current number, and arithmetic operation in variables
->Updating the variables as the user interacts with the calculator
->Handling edge cases like division by zero
->Displaying an error message for invalid input or operations
->Updating the input history to display the user's input and the result
->Centering the calculator on the screen
->Displaying a simple text above the calculator
+1.Entering numbers and performing arithmetic operations
+2.Displaying the input and result on the calculator display
+3.Storing the previous number, current number, and arithmetic operation in variables
+4.Updating the variables as the user interacts with the calculator
+5.Handling edge cases like division by zero
+6.Displaying an error message for invalid input or operations
+7.Updating the input history to display the user's input and the result
+8.Centering the calculator on the screen
+9.Displaying a simple text above the calculator
 
     The calculator is a simple but useful tool for performing basic arithmetic operations. It can be used as a starting point for building more complex calculators with additional features.
 
