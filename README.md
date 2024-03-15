@@ -37,3 +37,28 @@ Firstly, it provides a straightforward form for adding new tasks, with input val
 Users can easily toggle task completion with a single click, seamlessly transitioning between pending and completed states. Furthermore, the option to edit tasks facilitates flexibility, allowing users to modify task details as needed. 
 Visual cues such as strikethrough text enhance task visibility, providing immediate feedback on task status changes. Overall, these features combine to create a robust and efficient task management tool, empowering users to stay organized and focused on their goals.
 
+
+
+TASK 4: Login Authentication Page:-
+
+This project is a login authentication system comprising HTML, CSS, JavaScript, and Java components. Here's a concise overview:
+
+1. **HTML Pages**: 
+   - Login Page: Allows users to input their username and password.
+   - Registration Page: Enables users to register by providing personal details like name, phone number, email, etc.
+
+2. **CSS Styling**: Enhances the visual appeal of the login and registration pages, ensuring a user-friendly interface.
+
+3. **JavaScript Validation**: 
+   - Validates form submissions, ensuring required fields are filled.
+   - Checks for existing usernames during registration.
+
+4. **Server-side Authentication (Java)**: 
+   - Registers users securely by hashing passwords using SHA-256 encryption.
+   - Authenticates users during login by comparing hashed passwords.
+
+5. **Secured Page**: 
+   - Redirects users to a secured page upon successful login.
+   - Includes a logout button for user session management.
+
+In summary, this project provides a straightforward login system with front-end validation and secure back-end authentication, ensuring user data privacy and system integrity.
